@@ -1,0 +1,9 @@
+https://drive.google.com/file/d/19FHFBCSe7aDYSy8Dnw7OSGAERU0PrTkL/view?usp=sharing
+
+Bahan-bahan :
+Sensor KY-38
+Microcontroller Arduino atau jenis lainnya
+Breadboard
+Lampu 12v
+adaptor 12 volt + Converter
+Relay Listrik
